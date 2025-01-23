@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abin Roy S</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*v7u87zUok442-JXII1mlkw.gif">
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/fetch/w300-preview/ae/ae3e28761140fbd1ad80e282f271664d.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aby0073&label=Profile%20views&color=0e75b6&style=flat" alt="aby0073" /> </p>
 
 - 🔭 I’m currently working on [Real Estate](https://realestate.centrose.online/)
