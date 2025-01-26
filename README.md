@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/fetch/w300-preview/ae/ae3e28761140fbd1ad80e282f271664d.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aby0073&label=Profile%20views&color=0e75b6&style=flat" alt="aby0073" /> </p>
 
-- 🔭 I’m currently working on [Real Estate](https://realestate.centrose.online/)
+- 🔭 I’m currently working on this project [Real Estate](https://realestate.centrose.online/)
 
 - 🌱 I’m currently learning **Tailwind CSS**
 
