@@ -1,24 +1,108 @@
+```markdown
 <h1 align="center">Hi 👋, I'm Abin Roy S</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/fetch/w300-preview/ae/ae3e28761140fbd1ad80e282f271664d.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aby0073&label=Profile%20views&color=0e75b6&style=flat" alt="aby0073" /> </p>
+<h3 align="center">Software Developer | MERN Stack Developer | Backend Enthusiast</h3>
 
-- 🔭 I’m currently working on this project [Real Estate](https://admirable-concha-381f43.netlify.app/)
-
-- 🌱 I’m currently learning **Tailwind CSS**
-
-- 💬 Ask me about **Mern stack,Backend and frontend architecture,deployment,APIs**
-
-- 📫 How to reach me **royabin963@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/abin-roy-506453234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abin-roy-506453234/" height="30" width="40" /></a>
+<p align="center">
+Building scalable web applications with the MERN Stack and modern JavaScript technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aby0073&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aby0073&show_icons=true&locale=en&layout=compact" alt="aby0073" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aby0073&" alt="aby0073" /></p>
+## 🚀 About Me
+
+- 💼 Software Developer from Kerala, India
+- 🔭 Currently building **Industrial Web Applications & Automation Software**
+- 🌱 Learning **Next.js, Tailwind CSS, TypeScript & System Design**
+- 💬 Ask me about **React, Node.js, Express.js, MongoDB, REST APIs, Deployment**
+- 🎯 Passionate about writing clean, scalable backend architecture
+- 📫 Reach me at **royabin963@gmail.com**
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,vercel" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🏠 Real Estate Website
+A modern responsive real estate platform built with React.
+
+🔗 **Live Demo:**  
+https://admirable-concha-381f43.netlify.app/
+
+---
+
+### 🍔 Food Delivery Application
+
+- JWT Authentication
+- Cart & Checkout
+- Admin Dashboard
+- Stripe Payment Integration
+- MERN Stack
+
+---
+
+### 📝 Blog Platform
+
+- User Authentication
+- CRUD Operations
+- REST API
+- MongoDB Database
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aby0073&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aby0073&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aby0073&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/abin-roy-506453234/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+<a href="mailto:royabin963@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Quote
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+```
